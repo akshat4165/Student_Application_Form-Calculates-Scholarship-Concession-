@@ -1,0 +1,16 @@
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\StudentApplicationForm.Form1.resources
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.csproj.GenerateResource.cache
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.AssemblyInfoInputs.cache
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.AssemblyInfo.cs
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.csproj.CoreCompileInputs.cache
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\bin\Debug\net8.0-windows\Student_Application_Form.exe
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\bin\Debug\net8.0-windows\Student_Application_Form.deps.json
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\bin\Debug\net8.0-windows\Student_Application_Form.runtimeconfig.json
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\bin\Debug\net8.0-windows\Student_Application_Form.dll
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\bin\Debug\net8.0-windows\Student_Application_Form.pdb
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.dll
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\refint\Student_Application_Form.dll
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.pdb
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\Student_Application_Form.genruntimeconfig.cache
+C:\Users\akshat\source\repos\Student_Application_Form\Student_Application_Form\obj\Debug\net8.0-windows\ref\Student_Application_Form.dll
